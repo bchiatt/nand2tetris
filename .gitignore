@@ -1,5 +1,5 @@
 tools/*
 projects/*
-!projects/00/*
-!projects/01/*
-!projects/02/*
+!projects/00/
+!projects/01/
+!projects/02/
